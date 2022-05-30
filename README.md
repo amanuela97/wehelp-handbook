@@ -33,3 +33,9 @@ all agreements, objectives, processes and workflows of wehelp organisation
     In our [Google Drive](https://drive.google.com/drive/folders/1MwIxcYWOrFmLnq4zMPejsGFF1SRHU7Fi).
     
 - **What did we do and no longer do?**
+
+We unite in order to solve this issue together
+
+- Exchange request - [https://wehelp.live/exchange](https://wehelp.live/exchange)
+- List of banks - [https://wehelp.live/banks](https://wehelp.live/banks)
+- Add bank - [https://wehelp.live/banks/add](https://wehelp.live/banks/add)
